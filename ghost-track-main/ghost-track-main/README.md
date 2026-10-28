@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛰️ Wi-Fi CSI 3D Indoor Localization
+# 🛰️ 3D-Indoor-Human-Tracking-via-Wifi-using-ESP-32-Supermini
 
 **Privacy-Preserving, Device-Free Human Tracking using Channel State Information**
 
